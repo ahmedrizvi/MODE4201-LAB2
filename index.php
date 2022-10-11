@@ -1,6 +1,3 @@
-
-<?php include "./header.html" ?>
-
+<script src="includes.header.js"></script>
 <h1>TESTING</h1>
-
-<?php include "./footer.html" ?>
+<script src="includes.footer.js"></script>
